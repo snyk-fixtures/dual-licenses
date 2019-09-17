@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "jszip": "3.2.1",
+    "rc": "1.2.1",
     "snyk": "1.165.1"
   }
 }
